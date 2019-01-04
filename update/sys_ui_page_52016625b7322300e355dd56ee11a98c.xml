@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_page">
+    <sys_ui_page action="INSERT_OR_UPDATE">
+        <category>general</category>
+        <client_script><![CDATA[function abc() {
+	alert("test");
+}]]></client_script>
+        <description/>
+        <direct>false</direct>
+        <endpoint>sn_hotel_managemen_My UI Page.do</endpoint>
+        <html><![CDATA[<?xml version="1.0" encoding="utf-8" ?>
+<j:jelly trim="false" xmlns:j="jelly:core" xmlns:g="glide" xmlns:j2="null" xmlns:g2="null">
+
+</j:jelly>]]></html>
+        <name>My UI Page</name>
+        <processing_script/>
+        <sys_class_name>sys_ui_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-01-04 15:03:45</sys_created_on>
+        <sys_id>52016625b7322300e355dd56ee11a98c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My UI Page</sys_name>
+        <sys_package display_value="Hotel Management" source="sn_hotel_managemen">3de0a225b7322300e355dd56ee11a91a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hotel Management">3de0a225b7322300e355dd56ee11a91a</sys_scope>
+        <sys_update_name>sys_ui_page_52016625b7322300e355dd56ee11a98c</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-01-04 15:03:45</sys_updated_on>
+    </sys_ui_page>
+</record_update>
